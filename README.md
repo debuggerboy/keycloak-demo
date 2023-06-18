@@ -1,5 +1,5 @@
 # keycloak-demo
-Keycloak Demo
+Keycloak Demo for ArgoCD Autopilot
 
 ## References
 
