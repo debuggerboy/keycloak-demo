@@ -1,0 +1,11 @@
+{
+  "appName": "nginx-ingress",
+  "userGivenName": "nginx-ingress",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/nginx-ingress/overlays/keycloak",
+  "srcRepoURL": "https://github.com/debuggerboy/keycloak-demo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
