@@ -1,0 +1,13 @@
+{
+  "appName": "keycloak-app",
+  "userGivenName": "keycloak-app",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": ".",
+  "srcRepoURL": "https://github.com/debuggerboy/keycloak-demo-k8s-manifests.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
