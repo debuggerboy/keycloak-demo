@@ -20,3 +20,10 @@ Keycloak Demo for ArgoCD Autopilot
 - https://github.com/stianst/demo-kubernetes
 - https://gist.github.com/thomasdarimont/145dc9aa857b831ff2eff221b79d179a
 
+## Recover from this autopilot installation
+
+Read : https://github.com/argoproj-labs/argocd-autopilot/issues/26
+
+```
+argocd-autopilot repo bootstrap --recover
+```
